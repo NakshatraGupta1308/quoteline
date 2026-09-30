@@ -1,0 +1,11 @@
+{
+  "name": "quoteline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-assisted quoting workspace for small and midsize manufacturers",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "node --test"
+  }
+}
